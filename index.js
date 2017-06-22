@@ -1,27 +1,26 @@
 const backgroundColor = '#FFFFFF'
-const foregroundColor = '#000000'
+const foregroundColor = '#272822'
 
 const cursorColor = '#f0f8ff'
 
-const colors = [
-  backgroundColor,
-  '#F92672', // pink
-  '#A6E22E', // green
-  '#FD971F', // orange
-  '#AE81FF', // purple
-  '#66D9EF', // blue
-  '#38CCD1', // cyan
-  '#ffffff', // white
-  '#49483E', // brown gray
-  '#F92672', // pink
-  '#A6E22E', // green
-  '#FD971F', // orange
-  '#AE81FF', // purple
-  '#66D9EF', // blue
-  '#38CCD1', // cyan
-  '#ffffff', // white
-  foregroundColor
-]
+const colors = {
+  black: '#272822',
+  red: '#F92672',
+  green: '#A6E22E',
+  yellow: '#FD971F',
+  blue: '#AE81FF',
+  magenta: '#F92672',
+  cyan: '#28C6E4',
+  white: '#f8f8f0',
+  lightBlack: '#49483e',
+  lightRed: '#F92672',
+  lightGreen: '#A6E22E',
+  lightYellow: '#FD971F',
+  lightBlue: '#AE81FF',
+  lightMagenta: '#F92672',
+  lightCyan: '#28C6E4',
+  lightWhite: '#f8f8f2'
+}
 
 exports.decorateConfig = config => {
 
