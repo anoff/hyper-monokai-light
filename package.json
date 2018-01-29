@@ -1,6 +1,6 @@
 {
   "name": "hyper-monokai-light",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "bright version of the monokai theme for hyper.js",
   "main": "index.js",
   "scripts": {
