@@ -10,7 +10,7 @@ const colors = {
   yellow: '#F25A00',
   blue: '#AE81FF',
   magenta: '#F92672',
-  cyan: '##22B1CC',
+  cyan: '#22B1CC',
   white: '#f8f8f0',
   lightBlack: '#49483e',
   lightRed: '#F92672',
@@ -18,7 +18,7 @@ const colors = {
   lightYellow: '#F25A00',
   lightBlue: '#AE81FF',
   lightMagenta: '#F92672',
-  lightCyan: '##22B1CC',
+  lightCyan: '#22B1CC',
   lightWhite: '#f8f8f2'
 }
 
